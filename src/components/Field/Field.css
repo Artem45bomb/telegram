@@ -1,0 +1,15 @@
+.field{
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+    background: #211f1f;
+    color: white;
+    font-size: 18px;
+}
+
+.field p{
+    margin-top: 5px;
+    color: #3a3939;
+    font-size: 16px;
+}
+

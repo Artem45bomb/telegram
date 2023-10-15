@@ -1,0 +1,28 @@
+.message{
+    background: linear-gradient(#0e5157, #198a2f);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 10px 0 78%;
+    max-width:30%;
+    min-width: 20%;
+    word-break: break-word;
+    border: 3px rgba(238, 234, 234, 0.28) solid;
+}
+
+.his.message{
+    margin-right: 78%;
+    background: #444242;
+    margin-left: 10px;
+}
+
+.message .text{
+    margin: 10px 10px 0 10px  ;
+    font-size: 17px;
+}
+
+.message .id{
+    color: white;
+    font-size: 18px;
+}
+
+

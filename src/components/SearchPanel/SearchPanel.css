@@ -1,0 +1,43 @@
+
+
+.search-page{
+
+}
+
+.search-panel{
+    padding: 10px;
+    position: relative;
+    background: radial-gradient(#282828, #363434);
+}
+
+.search-panel nav{
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.search-panel .i{
+    font-size: 30px;
+}
+
+.search-page input{
+    color: white;
+    width: 85%;
+    background: none;
+    font-size: 30px;
+}
+
+.search-page input::placeholder{
+    color: white;
+}
+
+.line{
+
+    position: absolute;
+    bottom: 0;
+    width: 70px;
+    height: 10px;
+    background: deepskyblue;
+    border-radius: 10px 10px 0 0;
+    transition: 0.2s ease-in;
+}

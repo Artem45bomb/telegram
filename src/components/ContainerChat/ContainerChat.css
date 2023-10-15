@@ -1,0 +1,11 @@
+.container-chat{
+    padding: 15px;
+    width: 100vw;
+    background: linear-gradient(#2f2d2d, #28282f);
+}
+
+.container-profile{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}

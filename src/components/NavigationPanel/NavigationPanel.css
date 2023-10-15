@@ -1,0 +1,21 @@
+.navigation-panel{
+    width: 30vw;
+    height: 100vh;
+    background: rgb(35, 33, 33);
+    border: 1px solid white;
+    position: absolute;
+    top: 0;
+    left: -30vw;
+    transition: 0.3s all ;
+    z-index: 2;
+}
+
+.navigation-panel.active{
+    left: 0;
+}
+
+@media(min-width: 835px) {
+    .navigation-panel{
+        width: 20vw;
+    }
+}

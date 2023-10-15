@@ -1,0 +1,9 @@
+.folders{
+    color: white;
+    font-size: 20px;
+    margin-top: calc(10vh / 2 - 30px);
+    margin-bottom: 5px;
+    column-gap: 30px;
+    display: flex;
+    justify-content: center;
+}

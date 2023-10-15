@@ -1,0 +1,11 @@
+.panel-profile{
+    position: absolute;
+    display: flex;
+    column-gap: 15px;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background: #282523;
+}

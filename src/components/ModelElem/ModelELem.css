@@ -1,0 +1,30 @@
+.navigation-elem{
+    width: 100%;
+    font-size: 20px;
+    padding: 30px;
+    color: white;
+    background: rgba(23, 24, 30, 0.43);
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation-elem.special{
+    border-top: black 1px solid;
+    background: rgba(38, 37, 37, 0.72);
+    padding: 20px;
+    font-size: 16px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.navigation-elem.settings-elem{
+    background: #3a3939;
+    padding: 15px;
+}
+
+.navigation-elem.settings-elem.radius{
+    border-radius: 0 0 10px 10px;
+}
+
+
